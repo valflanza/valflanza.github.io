@@ -10,12 +10,12 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "E. faecoum accnet"
+    "title": "E. faecium Accnet Network"
   },
   "legend": {
     "edgeLabel": "Presence",
     "colorLabel": "Clusters",
-    "nodeLabel": "Proteins and Genomes"
+    "nodeLabel": "Proteins or Genomes"
   },
   "features": {
     "search": true,
